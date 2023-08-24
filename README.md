@@ -1,4 +1,4 @@
-![Crypto Market Dashboard](https://example.com/dashboard-screenshot.png)
+![Crypto Market Dashboard](https://raw.githubusercontent.com/nirajj-pal/Data-Visualization-of-crypto-market/main/project%20Image.png)
 
 
 developed a dynamic and visually appealing Crypto Market Dashboard that provided real-time insights into the volatile cryptocurrency market. This project not only showcased my technical prowess but also highlighted my ability to create practical solutions that bridge the gap between data and user experience.
